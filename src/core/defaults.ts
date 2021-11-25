@@ -104,7 +104,7 @@ export const MAINNET_NETWORK: QSNetwork = {
   connectType: "default",
   name: "Tezos Mainnet",
   type: "main",
-  rpcBaseURL: "https://mainnet-node.madfish.solutions/",
+  rpcBaseURL: "https://sebuh.net:8732",
   fa1_2FactoryContract: FA1_2_FACTORY_CONTRACT_MAINNET,
   fa2FactoryContract: FA2_FACTORY_CONTRACT_MAINNET,
   fa1_2OldFactoryContract: FA1_2_OLD_FACTORY_CONTRACT_MAINNET,
